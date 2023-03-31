@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "xcodegen"
+brew "swiftgen"
+brew "needle"
+brew "rbenv"
