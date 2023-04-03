@@ -1,6 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElonPark%2FRIBsReactorKit&count_bg=%235890E1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 # RIBsReactorKit
+
+Origin Source : https://github.com/ElonPark/RIBsReactorKit
+
+Project Build가 되지 않아 수정함
 
 [RIBs](https://github.com/uber/RIBs) X [ReactorKit](https://github.com/ReactorKit/ReactorKit) PoC
 
